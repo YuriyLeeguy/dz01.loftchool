@@ -7,5 +7,3 @@ function show_something()
     return 'SOMETHING';
 }
 const TEST_CONSTANTA ='abs';
-
-$user_name = "Igor";
